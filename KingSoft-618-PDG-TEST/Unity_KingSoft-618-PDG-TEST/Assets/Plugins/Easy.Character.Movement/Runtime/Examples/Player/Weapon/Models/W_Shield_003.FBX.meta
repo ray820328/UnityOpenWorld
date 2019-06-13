@@ -1,0 +1,95 @@
+ModelImporter:
+  additionalBone: 0
+  animationType: 2
+  animations:
+    animationCompression: 1
+    animationDoRetargetingWarnings: 0
+    animationImportErrors:
+    animationImportWarnings:
+    animationPositionError: 0.5
+    animationRetargetingWarnings:
+    animationRotationError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    bakeSimulation: 0
+    clipAnimations: []
+    extraExposedTransformPaths: []
+    isReadable: 0
+    legacyGenerateAnimations: 4
+    motionNodeName:
+    optimizeGameObjects: 0
+    resampleCurves: 1
+    rigImportErrors:
+    rigImportWarnings:
+  assetBundleName:
+  assetBundleVariant:
+  copyAvatar: 0
+  externalObjects: {}
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fx_Shield_Weapon
+    400000: //RootNode
+    400002: Fx_Shield_Weapon
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: W_Shield_003
+    9500000: //RootNode
+  humanDescription:
+    armStretch: 0.05
+    armTwist: 0.5
+    feetSpacing: 0
+    foreArmTwist: 0.5
+    hasExtraRoot: 0
+    hasTranslationDoF: 0
+    human: []
+    legStretch: 0.05
+    legTwist: 0.5
+    rootMotionBoneName:
+    rootMotionBoneRotation:
+      w: 1
+      x: 0
+      y: 0
+      z: 0
+    serializedVersion: 2
+    skeleton: []
+    skeletonHasParents: 0
+    upperLegTwist: 0.5
+  humanoidOversampling: 1
+  importAnimation: 0
+  lastHumanDescriptionAvatarSource:
+    instanceID: 0
+  materials:
+    importMaterials: 0
+    materialLocation: 0
+    materialName: 0
+    materialSearch: 1
+  meshes:
+    addColliders: 0
+    generateSecondaryUV: 0
+    globalScale: 0.01
+    importBlendShapes: 1
+    indexFormat: 1
+    keepQuads: 0
+    lODScreenPercentages: []
+    meshCompression: 1
+    optimizeMeshForGPU: 0
+    preserveHierarchy: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    swapUVChannels: 0
+    useFileScale: 0
+    useFileUnits: 1
+    weldVertices: 1
+  serializedVersion: 22
+  tangentSpace:
+    normalCalculationMode: 0
+    normalImportMode: 0
+    normalSmoothAngle: 60
+    tangentImportMode: 4
+  userData:
+fileFormatVersion: 2
+guid: e974e5326cdbc0340ad53b7e65b05be6
+licenseType: Pro
+timeCreated: 1498025639

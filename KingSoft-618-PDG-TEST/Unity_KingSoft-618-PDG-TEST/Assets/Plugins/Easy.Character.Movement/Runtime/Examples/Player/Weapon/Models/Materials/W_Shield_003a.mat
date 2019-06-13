@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: W_Shield_003a
+  m_Shader: {fileID: 10704, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 870fb8badf76b364381a7591c3e4b5e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: f4599c5be47540d4db753f08bc7efd86, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EnvReflection:
+        m_Texture: {fileID: 8900000, guid: 6419a5cf58cbbda4aa25b6ca3f70651b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Illum:
+        m_Texture: {fileID: 2800000, guid: 8744122e6c45fd84ebb157bfcf5d874a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f4599c5be47540d4db753f08bc7efd86, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 0cf0105c9cbc53a41bfe9b767e03ac2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularHair:
+        m_Texture: {fileID: 2800000, guid: 9ffedacc5b017fc479e348f5bb697d03, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TintTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbientBrightness: 1
+    - _EmissionLevel: 0
+    - _Gloss: 0.83928573
+    - _GlowStrength: 0
+    - _Outter: 0.1
+    - _RimStrength: 0
+    - _Shininess: 0.078125
+    - _cpfv: 0
+    m_Colors:
+    - _AmbientColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _BackLightDirXYZGlossW: {r: -0.7, g: 0.7, b: 0, a: 1.2}
+    - _Color: {r: 0.88235295, g: 0.88235295, b: 0.88235295, a: 1}
+    - _EmissionB: {r: 0, g: 0, b: 0, a: 1}
+    - _EnvReflectionColorR: {r: 0.30147058, g: 0.2556079, b: 0.13521843, a: 1}
+    - _GlowColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimLightColor: {r: 0.019607844, g: 0.07058824, b: 0.16078432, a: 0}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecularG: {r: 0.22794116, g: 0.21182807, b: 0.1592236, a: 1}
+    - _SpecularHairColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _TinitColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _TinitColor2: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColorDown: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColorDownAdd: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColorUp: {r: 1, g: 1, b: 1, a: 1}

@@ -1,0 +1,9 @@
+{
+	"name":"com.runningman.easycharactermovement",
+	"displayName":"EasyCharacterMovement",
+	"version":"1.6.0",
+	"unity":"2018.1",
+	"description":"a runningman character use for scene test",
+	"keywords":["runningman","character","scene","easycharactermovement"],
+	"category":"scene"
+}
